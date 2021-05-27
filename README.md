@@ -20,7 +20,11 @@ Any potential bugs are, at this time, unknown. Please contact the authors if you
 Contact the author at __james.benjamin.pawlik@gmail.com__
 
 ### __License__
+<<<<<<< HEAD
 This software is licensed under the [BSD license](license.txt).
+=======
+This software is licensed under the [BSD license](src="license.txt").
+>>>>>>> b578f14561e120e684a496c0830e80f8cf8c2dcb
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
